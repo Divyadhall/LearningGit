@@ -1,6 +1,5 @@
 git hub file repo demo
-<<<<<<< HEAD
+
 editing to check consistency
-=======
+
 editing at local
->>>>>>> multi line text message while commiting
